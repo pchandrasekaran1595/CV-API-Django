@@ -1,0 +1,1 @@
+start /MAX cmd /c "title RUN && cd venv/Scripts && activate && cd .. && cd .. && cls && python manage.py collectstatic --no-input && deactivate && timeout /t 5 /nobreak"

@@ -1,0 +1,12 @@
+*.bat
+*.md
+.vscode
+.github
+venv
+*.sqlite3
+__pycache__
+staticfiles
+*.sqlite3
+Files
+.vscode
+venv
