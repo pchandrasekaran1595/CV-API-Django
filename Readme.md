@@ -10,7 +10,6 @@
     - Change `DEBUG` to `False` in Main.settings
     - Ensure appropriate environment variable is set
     - Run `collect-static.bat` before `start-local-server.bat`
-- Heroku URL : `https://pcs-cv-api.herokuapp.com/`
 
 <br>
 
