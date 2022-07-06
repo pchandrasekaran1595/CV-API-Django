@@ -1,5 +1,5 @@
 onnx==1.10.2
-numpy==1.21.0
+numpy==1.22.0
 pandas==1.4.1
 pillow==9.0.1
 django==3.2.14
